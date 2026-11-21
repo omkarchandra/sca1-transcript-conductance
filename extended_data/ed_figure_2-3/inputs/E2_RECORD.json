@@ -1,0 +1,87 @@
+{
+ "note": "Exploratory; E2 occupancy on the Purkinje genotype lanes. Lane PCs were chosen on all 24 discovery mice (kept fixed, as instructed); the discovery PCA was fitted on all 24 mice.",
+ "script_sha256": "13c4b58054015869352267330fa511bae3de94e6a70eb8bf056eeeac3b082ce9",
+ "inputs": {
+  "results/s07_core_representation_20260930_v01/discovery__Purkinje_cell/nucleus_PCs.npy": "f2a6ed3a7f90068228f675eb8e17f8d41860402d8d8c2df12abb8cabbfe5ec3b",
+  "results/s07_core_representation_20260930_v01/discovery__Purkinje_cell/nucleus_metadata.tsv.gz": "0f02b61d45667f203d410dce7751bf80c7c78a00a6af65afc30ba97039317721",
+  "results/s06_stageA_20260930_v01/unit_metadata.tsv": "d2a0b8b202d8eb5823ec6c8f1907630a0f441352dbe0b4ed63ca9d918a47d657",
+  "docs/s12_t3_real_C_20261007T024418Z/pc_check_by_pc.tsv": "27701bd432255403c50f399ad9a9f98a374b8cdccdfb2e8c22e87849b3bc4b31",
+  "results/far_set_ratios/real_v02/RECORD.json": "7ed5c0c184ca977afe71476e6e92afbcd2a75b7e3e1f94536687b64d13df0ea4",
+  "results/far_set_ratios/real_v02/OCCUPANCY.tsv": "2823a594148d1b625a4938d3cd8ecb12112a86478fd0b0535b1cf2bcaebf9b1e",
+  "results/phase4_12w_full_20261007/Purkinje_cell_PCs_12w.npy": "3c2eb711b5f3c6777c2f7deb43789337633132194bb09d168544d312ddcfb310",
+  "results/phase4_12w_full_20261007/Purkinje_cell_projection_12w.tsv.gz": "26161c549f37faa58567eca24064603aedec955c5d875996754506e1359d15e4",
+  "results/phase4_12w_full_20261007/Purkinje_cell_PC_means_by_mouse_12w.tsv": "4613c11497fe055297a540595a7b855849ba9595e0ca78deabcb15a4c7ea9158",
+  "results/phase4_12w_full_20261007/Purkinje_cell_PC_means_by_mouse_24_reference.tsv": "265efe0b5d881c8bddd583d58d64bc7af89e5fb5e9614b603b9fac520ef4e23c",
+  "results/packet00_sca1_audit_20260929_run01/animal_manifest.tsv": "7c2f2d4d41ae6e06b20f8c18071110ae776d93b0b46978f510e19044b912bb07"
+ },
+ "numpy": "2.5.3",
+ "pandas": "3.0.5",
+ "gate_max_abs_deviation_vs_far_set_real_v02": 0.0,
+ "basis_check_max_abs_deviation": {
+  "discovery_24_reference": 8.881784197001252e-16,
+  "w12_stored_means": 8.881784197001252e-16
+ },
+ "lane_pcs": {
+  "5": [
+   5,
+   6,
+   11
+  ],
+  "18": [
+   5,
+   6,
+   11,
+   30
+  ],
+  "24": [
+   5,
+   6,
+   11,
+   30
+  ],
+  "30": [
+   5,
+   6,
+   30
+  ]
+ },
+ "full_unit_vector": {
+  "5": {
+   "PC5": 0.8891577167767952,
+   "PC6": -0.3978633753082592,
+   "PC11": 0.22606036646125235
+  },
+  "18": {
+   "PC5": 0.9244780822514816,
+   "PC6": -0.34797264192640054,
+   "PC11": 0.08888053767837076,
+   "PC30": -0.1278888811796693
+  },
+  "24": {
+   "PC5": 0.8619483081302884,
+   "PC6": -0.39491659637815124,
+   "PC11": 0.2888292783968966,
+   "PC30": -0.13290464234614854
+  },
+  "30": {
+   "PC5": 0.9094957535499513,
+   "PC6": -0.4049188949849558,
+   "PC30": -0.0941178131852241
+  }
+ },
+ "full_wt_p90": {
+  "5": -0.3381980246304962,
+  "18": 0.08421749948619774,
+  "24": 1.5016151422153654,
+  "30": -0.755225043399663
+ },
+ "quantile": "numpy default (linear), pooled WT nuclei; beyond = strictly greater",
+ "mixture": {
+  "free_sd_floor_x_WT_sd": 0.05,
+  "em_tol": 1e-10,
+  "em_max": 20000,
+  "starts": "w in {0.1, 0.5, 0.9} x mu in {median, q75}; best log-likelihood kept",
+  "bic": "k ln n - 2 LL; k = 2 (one Gaussian), 3 (mixture)",
+  "WT_sd": "ddof 0"
+ }
+}

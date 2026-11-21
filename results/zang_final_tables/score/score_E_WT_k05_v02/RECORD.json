@@ -1,0 +1,19 @@
+{
+  "stage": "Zang P4 scoring v02 (E1 10-25 s)",
+  "created_utc": "2026-10-27T12:50:52+00:00",
+  "run_root": "results/zang_final_tables/score/score_E_WT_k05_v02",
+  "window": [
+    10000.0,
+    25000.0
+  ],
+  "folders": 1,
+  "conditions": [
+    "WT"
+  ],
+  "paired": false,
+  "script_sha256": "dff012339ab067b53ae10d54286f90f7b47be752d6b88bd53cd9214b04344606",
+  "outputs": {
+    "METRICS.tsv": "10c96379dad8f5de0487ff57ae6ddc3c36525096233a72aa1e21b0a241d49dbc",
+    "SUMMARY.md": "f63de72cd7c9ca3bbe1b97d291db9ef189fcd701580bbd1b425e4af12585c945"
+  }
+}

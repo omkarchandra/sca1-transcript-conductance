@@ -1,0 +1,14 @@
+check_passed	items
+all 15 inputs match their pinned sha256	15
+manifest: 24 included mice	1
+manifest: 3 WT + 3 KI at each of 5, 18, 24, 30 W; unique ids	24
+Purkinje_cell: discovery projection, nucleus_metadata and nucleus_PCs rows are aligned (obs_name, shape n x 30)	1971
+Purkinje_cell: the three fold files carry the same nuclei, order and mouse columns as the discovery file	5913
+Purkinje_cell: genotype, age and sex of every mouse equal the pinned manifest	24
+Purkinje_cell: every nucleus is held out in exactly one fold file	1971
+Purkinje_cell: stored off_manifold equals distance > stored threshold, and the diagnostics rows reproduce n_nuclei, training and off_manifold_fraction, in the discovery and all three fold files	7884
+Bergmann_glia: discovery projection, nucleus_metadata and nucleus_PCs rows are aligned (obs_name, shape n x 30)	8654
+Bergmann_glia: the three fold files carry the same nuclei, order and mouse columns as the discovery file	25962
+Bergmann_glia: genotype, age and sex of every mouse equal the pinned manifest	24
+Bergmann_glia: every nucleus is held out in exactly one fold file	8654
+Bergmann_glia: stored off_manifold equals distance > stored threshold, and the diagnostics rows reproduce n_nuclei, training and off_manifold_fraction, in the discovery and all three fold files	34616

@@ -1,0 +1,14 @@
+# Exploratory; E2 occupancy on the Purkinje genotype lanes. Lane PCs were chosen on all 24 discovery mice (kept fixed, as instructed); the discovery PCA was fitted on all 24 mice.
+reference_age	mouse	genotype	sex	n_nuclei	ref_p90	n_beyond	share	lane_score_median
+5	2061	WT	M	24	-0.338198	4	0.166667	-1.83488
+5	2062	WT	M	39	-0.338198	10	0.25641	-1.4024
+5	22018	WT	M	49	-0.338198	14	0.285714	-1.31051
+5	2063	KI	M	21	-0.338198	21	1	1.73077
+5	2065	KI	M	35	-0.338198	26	0.742857	0.632654
+5	22019	KI	M	35	-0.338198	33	0.942857	1.24787
+18	2061	WT	M	24	0.0842175	4	0.166667	-1.91861
+18	2062	WT	M	39	0.0842175	9	0.230769	-1.3588
+18	22018	WT	M	49	0.0842175	9	0.183673	-1.39726
+18	2063	KI	M	21	0.0842175	21	1	1.79746
+18	2065	KI	M	35	0.0842175	24	0.685714	0.571368
+18	22019	KI	M	35	0.0842175	32	0.914286	1.35207

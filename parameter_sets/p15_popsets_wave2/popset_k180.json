@@ -1,0 +1,18 @@
+{
+ "lhs_seed": 20261112,
+ "numpy": "2.3.5",
+ "rule": "Latin hypercube, 200 strata per group, default_rng(20261112).random() only; per group: ranks of random(200) as strata, u=(rank+random(200))/200, factor=exp(ln(1/1.5)+u*2*ln(1.5))",
+ "scales": {
+  "BK": 1.0507452475995196,
+  "CaT3_1": 0.9699689980908734,
+  "Kv3": 1.0614690108244853,
+  "Kv4": 1.2333436272916303,
+  "SK2": 0.6764274204175597,
+  "hpkj": 1.0083115975377033,
+  "naRsg": 1.3640344967914866,
+  "newCaP": 1.0951594572082644
+ },
+ "seed": 40261292,
+ "set_id": 180,
+ "wave": 2
+}

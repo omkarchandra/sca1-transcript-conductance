@@ -1,0 +1,5 @@
+# A1: limma-voom on the Purkinje pseudobulk, mutant vs control, S08 settings; P2 rule (>= 4 of 5 negative; one-sided sign test over nine)
+dataset	age	n_samples_KI	n_samples_WT	n_genes_tested	n_channel_found	n_channel_negative	n_nine_found	n_nine_negative	sign_test_p	replicates	median_channel_log2fc	not_tested
+GSE215336	12	3	3	9760	5	5	9	9	0.001953125	TRUE	-0.506607814405983	
+GSE246183_human	0	6	7	7008	5	2	9	5	0.5	FALSE	0.109300018170227	
+GSE246183_human_all20	0	10	10	4641	5	5	9	9	0.001953125	TRUE	-0.520572284310594	

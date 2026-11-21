@@ -1,0 +1,11 @@
+version	condition	sets_with_a_ratio	sets_without	q25	median	q75	in_recorded_range	published_set
+KI_18w_mid	no_input	128	2	1.762	1.879	2.059	0	
+KI_18w_mid	synaptic_input	130	0	1.685	1.835	2.075	0	1.891
+KI_1c_restore_Cacna1a	no_input	130	0	0.960	1.025	1.083	123	
+KI_1c_restore_Cacna1a	synaptic_input	130	0	0.960	1.023	1.075	124	1.000
+KI_4_protein_Kcnma1_Cacna1g	no_input	130	0	0.886	0.914	0.944	123	
+KI_4_protein_Kcnma1_Cacna1g	synaptic_input	130	0	0.859	0.887	0.915	103	0.878
+P8_atrophy_A0.8	no_input	130	0	1.265	1.308	1.375	77	
+P8_atrophy_A0.8	synaptic_input	130	0	1.238	1.288	1.362	86	1.313
+P8_atrophy_A0.75	no_input	130	0	1.168	1.193	1.236	129	
+P8_atrophy_A0.75	synaptic_input	130	0	1.149	1.182	1.230	128	1.204

@@ -1,0 +1,19 @@
+{
+  "stage": "Zang P4 scoring v02 (E1 10-25 s)",
+  "created_utc": "2026-10-27T14:30:28+00:00",
+  "run_root": "results/zang_final_tables/score/score_E_KI_24w_mid_k01_v02",
+  "window": [
+    10000.0,
+    25000.0
+  ],
+  "folders": 1,
+  "conditions": [
+    "KI_24w_mid"
+  ],
+  "paired": false,
+  "script_sha256": "dff012339ab067b53ae10d54286f90f7b47be752d6b88bd53cd9214b04344606",
+  "outputs": {
+    "METRICS.tsv": "b6934fc822014ce5def04791dbb8c88af939aa39bb12a669917ebfde3e961406",
+    "SUMMARY.md": "574f2d1db951ace475922166bdc93a417014bf21b9206138780ed9f672cd06f7"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "condition": "far_all_KI_nuclei_18w",
+  "age_weeks": 18,
+  "source_sha256": "3dfa2e827fd76521ff0a2fe8a2143d060d3da2878f63a7ce0de8d71351d8ec15",
+  "scales": {
+    "Kcnc3": 0.666783,
+    "Kcnma1": 0.719157,
+    "Kcnd3": 0.587717,
+    "Cacna1a": 0.672413,
+    "Cacna1g": 0.649431,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  }
+}

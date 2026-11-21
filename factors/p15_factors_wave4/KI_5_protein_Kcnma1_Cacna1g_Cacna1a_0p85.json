@@ -1,0 +1,20 @@
+{
+  "condition": "KI_18w_mid_5_protein_Kcnma1_Cacna1g_Cacna1a_0p85",
+  "age_weeks": 18,
+  "source_sha256": "40593a55c8538dc7d687cc07eea13b8d640e4fe4d696794879d159e74b625298",
+  "scales": {
+    "Kcnc3": 1.0,
+    "Kcnma1": 0.78,
+    "Kcnd3": 1.0,
+    "Cacna1a": 0.85,
+    "Cacna1g": 0.75,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  },
+  "p15_variant": "KI_5_protein_Kcnma1_Cacna1g_Cacna1a_0p85",
+  "p15_note": "Kcnma1 0.78 and Cacna1g 0.75 are protein ratios read from Figure 2 of Bushart et al. 2021 (mean of anterior and nodular); Cacna1a at 0.85, one step of a dose series; all other channels at WT; the age and source fields are kept only for the file format (wave 4)"
+}

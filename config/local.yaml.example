@@ -1,0 +1,9 @@
+# Machine-local paths; copy to local.yaml and provision the external inputs.
+WORK_ROOT: /path/to/workspace
+DATA_ROOT: /path/to/external-data
+OUTPUT_ROOT: /path/to/new-outputs
+CONDA_BIN: /path/to/conda
+CONDA_ENV: /path/to/conda-environment
+MODEL_ROOT: /path/to/model-builds
+# A Python interpreter with NEURON 8.2.6 installed.
+PYTHON_NEURON: /path/to/python-with-neuron-8.2.6

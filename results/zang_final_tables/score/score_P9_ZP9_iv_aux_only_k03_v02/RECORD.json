@@ -1,0 +1,19 @@
+{
+  "stage": "Zang P4 scoring v02 (E1 10-25 s)",
+  "created_utc": "2026-10-27T15:20:54+00:00",
+  "run_root": "results/zang_final_tables/score/score_P9_ZP9_iv_aux_only_k03_v02",
+  "window": [
+    10000.0,
+    25000.0
+  ],
+  "folders": 1,
+  "conditions": [
+    "ZP9_iv_aux_only"
+  ],
+  "paired": false,
+  "script_sha256": "dff012339ab067b53ae10d54286f90f7b47be752d6b88bd53cd9214b04344606",
+  "outputs": {
+    "METRICS.tsv": "43c9d950abed1d95686f89925f7e0cc6cc7688d6e28e098dc819cfc2ed448798",
+    "SUMMARY.md": "b54b4724250e88a191588339e407dff0e8e33de4526fc912b840f9e39ee3b4b6"
+  }
+}

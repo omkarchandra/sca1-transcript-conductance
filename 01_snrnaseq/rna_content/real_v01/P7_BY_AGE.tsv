@@ -1,0 +1,7 @@
+# P7: per-mouse Purkinje / granule / all-other median UMI and detected genes from the h5ad raw counts; KI/WT per age.
+age_weeks	KI_over_WT_R_gran_umi	KI_over_WT_R_all_umi	KI_over_WT_R_gran_genes	KI_over_WT_R_all_genes	KI_over_WT_purkinje_share	all_KI_below_lowest_WT_R_gran	reading
+5	0.961722	0.960479	0.960142	0.961683	1.37092	False	descriptive (5 weeks)
+12	0.854977	0.855234	0.982908	0.9827	0.818204	False	no evidence
+18	0.786762	0.80215	0.983262	0.997629	0.764391	False	no evidence
+24	0.864037	0.860797	0.963413	0.961886	1.20733	False	no evidence
+30	0.830892	0.824691	0.95466	0.949513	0.940715	True	candidate reduction of transcriptional output per Purkinje nucleus

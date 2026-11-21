@@ -1,0 +1,2 @@
+folder	condition	group	seed	sigma_nA	n_spikes	n_spikes_total	rate_hz	cv	cv2	pause_frac	log_isi_mode_ms	dspikes	dspike_rate_hz	main_crossings	dspikes_total	wall_s	d_rate_hz	d_cv	d_cv2	d_pause_frac	d_log_isi_mode_ms	d_dspikes	d_dspike_rate_hz	d_main_crossings
+ZP9_v_five_aux_k02	ZP9_v_five_aux	ZP9_v_five_aux	20261015	0.0065	1813	3015	120.86666666666666	0.035649015292438475	0.043407657775898736	0.0	8.413951416451985	0	0.0	0	0	50140.17542315647	nan	nan	nan	nan	nan	nan	nan	nan

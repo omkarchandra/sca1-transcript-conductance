@@ -1,0 +1,23 @@
+{
+  "stage": "E7 scoring v04 (E1 30-45 s, paired)",
+  "created_utc": "2026-10-28T04:15:59+00:00",
+  "run_roots": [
+    "${DATA_ROOT}/masoli_P8_atrophy"
+  ],
+  "wt_root": "${DATA_ROOT}/masoli_pop_WT_45s_sig0.0065_kept14_copy",
+  "window": [
+    30000.0,
+    45000.0
+  ],
+  "conditions": [
+    "P8_atrophy_A0.6",
+    "P8_atrophy_A0.8"
+  ],
+  "folders": 28,
+  "seed_checks_passed": 28,
+  "script_sha256": "da40df4af5bd0a799950abd6be64cc4e7801dd75b2cbe010e6ea4b3ef90d25aa",
+  "outputs": {
+    "E7_METRICS.tsv": "8495e767b6535df9dfb3669540cee6c35310eff35957c9dd68ff1da46d394911",
+    "SUMMARY.md": "b8df7b98fd751c7361aa95f43e190e856bd83e67af500f2cd89913d0a5482f4d"
+  }
+}

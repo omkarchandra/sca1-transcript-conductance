@@ -1,0 +1,2 @@
+folder	condition	group	seed	sigma_nA	n_spikes	n_spikes_total	rate_hz	cv	cv2	pause_frac	log_isi_mode_ms	dspikes	dspike_rate_hz	main_crossings	dspikes_total	wall_s	d_rate_hz	d_cv	d_cv2	d_pause_frac	d_log_isi_mode_ms	d_dspikes	d_dspike_rate_hz	d_main_crossings
+WT_k05	WT	WT	20261018	0.0065	627	1045	41.8	0.020376891735066998	0.023710728101015006	0.0	23.713737056616672	0	0.0	0	0	45677.36954001337	nan	nan	nan	nan	nan	nan	nan	nan

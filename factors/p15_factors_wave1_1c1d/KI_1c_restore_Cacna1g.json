@@ -1,0 +1,20 @@
+{
+  "condition": "KI_18w_mid_1c_Cacna1g",
+  "age_weeks": 18,
+  "source_sha256": "40593a55c8538dc7d687cc07eea13b8d640e4fe4d696794879d159e74b625298",
+  "scales": {
+    "Kcnc3": 0.6666093556941,
+    "Kcnma1": 0.7190924725561185,
+    "Kcnd3": 0.5876215270426435,
+    "Cacna1a": 0.6722697088324129,
+    "Cacna1g": 1.0,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  },
+  "p15_variant": "KI_1c_restore_Cacna1g",
+  "p15_note": "KI_18w_mid factor file, one channel restored to WT (1c)"
+}

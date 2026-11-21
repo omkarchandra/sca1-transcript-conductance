@@ -1,0 +1,15 @@
+{
+  "model": "ModelDB 229585 Masoli 2015 Purkinje cell",
+  "source": "https://github.com/ModelDBRepository/229585",
+  "commit": "7b1b3b99d5719bf320d8d249fbcb83a3da9e36dd",
+  "manifest_sha256": "7400d614f02db48d6690012d59741aa97baabafda4e8f31d29dae4452a8ee86f",
+  "model_dir": "${MODEL_ROOT}/masoli_229585",
+  "mod_count": 17,
+  "nrnivmodl": "${PYTHON_NEURON_DIRECTORY}/nrnivmodl",
+  "nrnivmodl_options": [],
+  "pinned_to": "taskset -c 0 (whole build on core 0), nice -n 19",
+  "neuron_version": "8.2.6",
+  "gcc": "gcc (GCC) 8.5.0 20210514 (Red Hat 8.5.0-28)",
+  "library": "${MODEL_ROOT}/masoli_229585/x86_64/.libs/libnrnmech.so",
+  "library_sha256": "21517306d4f93a5756014ee62abe627149217dd285ae55992f6747de161a0f41"
+}

@@ -1,0 +1,20 @@
+{
+  "condition": "KI_18w_mid_4_protein_Kcnma1_Cacna1g_plus_Kcnc3_Kcnd3",
+  "age_weeks": 18,
+  "source_sha256": "40593a55c8538dc7d687cc07eea13b8d640e4fe4d696794879d159e74b625298",
+  "scales": {
+    "Kcnc3": 0.6666093556941,
+    "Kcnma1": 0.78,
+    "Kcnd3": 0.5876215270426435,
+    "Cacna1a": 1.0,
+    "Cacna1g": 0.75,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  },
+  "p15_variant": "KI_4_protein_Kcnma1_Cacna1g_plus_Kcnc3_Kcnd3",
+  "p15_note": "Kcnma1 0.78 and Cacna1g 0.75 are protein ratios read from Figure 2 of Bushart et al. 2021 (mean of anterior and nodular); Kcnc3 and Kcnd3 at the KI 18-week transcript ratio; all other channels at WT; the age and source fields are kept only for the file format (wave 3)"
+}

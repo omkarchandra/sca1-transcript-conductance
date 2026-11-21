@@ -1,0 +1,16 @@
+{
+ "rule": "all factors 1.0: the published densities of the 2021 model (P16 set 000)",
+ "scales": {
+  "BK": 1.0,
+  "CaT3_1": 1.0,
+  "Kv3": 1.0,
+  "Kv4": 1.0,
+  "SK2": 1.0,
+  "hpkj": 1.0,
+  "naRsg": 1.0,
+  "newCaP": 1.0
+ },
+ "seed": 20261110,
+ "set_id": 0,
+ "wave": 8
+}

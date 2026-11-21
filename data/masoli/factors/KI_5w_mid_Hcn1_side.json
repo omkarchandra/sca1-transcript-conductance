@@ -1,0 +1,23 @@
+{
+  "condition": "KI_5w_mid_Hcn1_side",
+  "age_weeks": 5,
+  "source_sha256": "40593a55c8538dc7d687cc07eea13b8d640e4fe4d696794879d159e74b625298",
+  "scales": {
+    "Kcnc3": 0.8793545641970795,
+    "Kcnma1": 0.976485979724823,
+    "Kcnd3": 0.954372209963379,
+    "Cacna1a": 0.9542738311034855,
+    "Cacna1g": 0.9941793412346824,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.227060964464245
+  },
+  "hcn1_side": {
+    "computed": 1.227060964464245,
+    "rounded_2dp": "1.23",
+    "source_field": "log2FC_decision"
+  }
+}

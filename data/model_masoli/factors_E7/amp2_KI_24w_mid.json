@@ -1,0 +1,22 @@
+{
+  "condition": "amp2_KI_24w_mid",
+  "age_weeks": 24,
+  "source_sha256": "c99f77791b70b4cc0fcaa1e97019e2580e2668c16d2d782aae60b421340a2234",
+  "multiplier": 2.0,
+  "amplification": "s_prime = 1 + m*(s-1) on the five channels",
+  "floor": 0.05,
+  "floored_values": {},
+  "scales": {
+    "Kcnc3": 0.43165423046255924,
+    "Kcnma1": 0.6569455016321706,
+    "Kcnd3": 0.2793089161804796,
+    "Cacna1a": 0.48314244432200626,
+    "Cacna1g": 0.3053077135028983,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  }
+}

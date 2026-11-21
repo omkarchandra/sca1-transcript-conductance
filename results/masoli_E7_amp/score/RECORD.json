@@ -1,0 +1,24 @@
+{
+ "stage": "E7 scoring v04 (E1 30-45 s, paired)",
+ "created_utc": "2026-10-25T01:42:48+00:00",
+ "run_roots": [
+  "${SCRATCH_ROOT}/p4_t2/results/masoli_pop_E7_45s_sig0.0065_20261024"
+ ],
+ "wt_root": "${SCRATCH_ROOT}/p4_t2/results/masoli_pop_WT_45s_sig0.0065",
+ "window": [
+  30000.0,
+  45000.0
+ ],
+ "conditions": [
+  "amp1.5_KI_24w_mid",
+  "amp2_KI_24w_mid",
+  "amp3_KI_24w_mid"
+ ],
+ "folders": 42,
+ "seed_checks_passed": 42,
+ "script_sha256": "bc1f2c63ac9f3bf1815880c925368155b810ddfcff99d8f38eadcbd59c22c677",
+ "outputs": {
+  "E7_METRICS.tsv": "620a32e088a17063a3c175a2150ca32a7dba5a5874866b11a20a9bc867ef3c6a",
+  "SUMMARY.md": "b5e84f90e0362ddc980ca5ce6c03f10f7dbd82a97feb38452a0d3ca4ff28db11"
+ }
+}

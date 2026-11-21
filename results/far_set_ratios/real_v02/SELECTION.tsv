@@ -1,0 +1,20 @@
+# Exploratory; KI nuclei selected on the genotype lanes; ratios biased upward by construction.
+age	mouse	sex	rule	n_nuclei	n_selected	share	threshold	below_s08_floor_20
+18	6571	M	wt90	109	104	0.954128	0.0842175	False
+18	65731	M	wt90	148	142	0.959459	0.0842175	False
+18	65732	M	wt90	145	136	0.937931	0.0842175	False
+24	1589	M	wt90	51	40	0.784314	1.50162	False
+24	2021	F	wt90	35	25	0.714286	1.50162	False
+24	20212	F	wt90	28	21	0.75	1.50162	False
+30	58231	F	wt90	83	78	0.939759	-0.755225	False
+30	58241	F	wt90	78	72	0.923077	-0.755225	False
+30	58242	F	wt90	67	59	0.880597	-0.755225	False
+18	6571	M	top_third	109	4	0.0366972	4.395	True
+18	65731	M	top_third	148	68	0.459459	4.395	False
+18	65732	M	top_third	145	62	0.427586	4.395	False
+24	1589	M	top_third	51	13	0.254902	3.1908	True
+24	2021	F	top_third	35	14	0.4	3.1908	True
+24	20212	F	top_third	28	11	0.392857	3.1908	True
+30	58231	F	top_third	83	31	0.373494	2.14707	False
+30	58241	F	top_third	78	20	0.25641	2.14707	False
+30	58242	F	top_third	67	25	0.373134	2.14707	False

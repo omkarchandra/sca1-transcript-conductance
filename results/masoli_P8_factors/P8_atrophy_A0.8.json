@@ -1,0 +1,21 @@
+{
+  "condition": "P8_atrophy_A0.8",
+  "age_weeks": 18,
+  "atrophy_A": 0.8,
+  "source_file": "KI_18w_mid.json",
+  "source_sha256": "660f8462aec5b6671a279c5041ee539909b8a8395de3c7eed30994ca283c937a",
+  "rule": "five-gene factor / A; other genes unchanged",
+  "scales": {
+    "Kcnc3": 0.8332616946176249,
+    "Kcnma1": 0.8988655906951482,
+    "Kcnd3": 0.7345269088033043,
+    "Cacna1a": 0.8403371360405161,
+    "Cacna1g": 0.8114942136940367,
+    "Scn8a": 1.0,
+    "Scn4b": 1.0,
+    "Fgf14": 1.0,
+    "Kcnn2": 1.0,
+    "Kcna1": 1.0,
+    "Hcn1": 1.0
+  }
+}

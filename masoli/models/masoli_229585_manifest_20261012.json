@@ -1,0 +1,143 @@
+{
+ "source": "https://github.com/ModelDBRepository/229585",
+ "head": "7b1b3b99d5719bf320d8d249fbcb83a3da9e36dd",
+ "n_files": 34,
+ "files": {
+  "ModelViewParmSubset.txt": {
+   "bytes": 34903,
+   "sha256": "15c8cec9b94fcce39a94ae9ee65b7f1ed95f62116456de65bdcf96f84731eb39"
+  },
+  "ModelViewParmSubset_cm.txt": {
+   "bytes": 483,
+   "sha256": "4442204fabdb292b7723fd55ed664ef72b62ef50e068c735ad09cbd310798e77"
+  },
+  "PC_dendnames.dlist": {
+   "bytes": 15659,
+   "sha256": "bca2863b0283711ee238b2bd1e71ed12f502f827c02a8f08f07a65f66a1853db"
+  },
+  "PC_param.py": {
+   "bytes": 1752,
+   "sha256": "210003e213da12d5ce42fc3f90ef1f414dfec769cfd0ca25267668475424db6a"
+  },
+  "Purkinje_py3.py": {
+   "bytes": 20774,
+   "sha256": "39145777a3b5d03aca2e2b422c3e0b79f87f50372d00145b212f7a877cbf0e1d"
+  },
+  "connections.csv": {
+   "bytes": 23270,
+   "sha256": "c8d55be679bcb2fbb91419e8015841ccc82395a2e969af91b8684a9c51fa8874"
+  },
+  "coordinate.csv": {
+   "bytes": 104921,
+   "sha256": "848f1c9f0c64307458f8ef1e42a799812815078d49e1101791ff5ff9b5a886b8"
+  },
+  "mod_files/Cav2_1.mod": {
+   "bytes": 2621,
+   "sha256": "b970b2f538ff2f2d450c2e84a68cc66be925c8f7dd91bce604beeb86210ae69b"
+  },
+  "mod_files/Cav3_1.mod": {
+   "bytes": 2802,
+   "sha256": "1cdc5ec474f5c2356721f574f07ce72f8b365c21b7bf229bfc3bf3702150fd3f"
+  },
+  "mod_files/Cav3_2.mod": {
+   "bytes": 2200,
+   "sha256": "62ed5c4b64e7b34fa378379b2ae03be951f75420513674edbea3f79b94c68edf"
+  },
+  "mod_files/Cav3_3.mod": {
+   "bytes": 1728,
+   "sha256": "877756752f696d5522ff46598dd108463170ae5a63efa675e8952c3a31f7cd07"
+  },
+  "mod_files/HCN1_Angeloetal2007.mod": {
+   "bytes": 1899,
+   "sha256": "017a84b49c607f2c59a41e416383b173783c9b6880bea24f912f8647c9582e4f"
+  },
+  "mod_files/Kca11.mod": {
+   "bytes": 3781,
+   "sha256": "8de17ce279a81448296b0b3dc7c3ed3d6985c55fbc36bd1aa8ae0bcddd486b0e"
+  },
+  "mod_files/Kca22.mod": {
+   "bytes": 2412,
+   "sha256": "8f56051645535a198b2b502828a234e0bec98690133d5654164290771f63b3c1"
+  },
+  "mod_files/Kca31.mod": {
+   "bytes": 1668,
+   "sha256": "060e1d5778eb44684edb5f18d135ff8a15a1a2c09c1f7912a094771969a77fcb"
+  },
+  "mod_files/Kir23.mod": {
+   "bytes": 1812,
+   "sha256": "4fdf34ae22fec2c89abaca89389c3e90f19200ae4396ae98b1faeb507aeaa567"
+  },
+  "mod_files/Kv11.mod": {
+   "bytes": 2804,
+   "sha256": "90491730159aade3160e22bc2b4881c0ff7627921831c590e7cadf43e559cf40"
+  },
+  "mod_files/Kv15.mod": {
+   "bytes": 2637,
+   "sha256": "b4f70c5633c90c3b9014e7eb02f06b73eb06891a216ec8bde2dd3430194ac922"
+  },
+  "mod_files/Kv33.mod": {
+   "bytes": 2737,
+   "sha256": "3b25e465ed8ed16894196d94460c2167a834445729269e0e43dee935c6963782"
+  },
+  "mod_files/Kv34.mod": {
+   "bytes": 1533,
+   "sha256": "6f16e36623aca6513edceafe485e00dc1aa58fe820335c8ffe3998f5b90649b2"
+  },
+  "mod_files/Kv43.mod": {
+   "bytes": 3629,
+   "sha256": "f434046317e90e7886e8d0e6eeb0754573f4c332aa961414066a0c7afa1acd27"
+  },
+  "mod_files/Leak.mod": {
+   "bytes": 1264,
+   "sha256": "ade5a2409a66f4327b43829d0d810dc166aa2c4c0a341200e49775e561d0a7de"
+  },
+  "mod_files/Nav16.mod": {
+   "bytes": 4578,
+   "sha256": "cfd7d3a41ea71e2032e359e0ad809dfad6f56b46a6d2cf71a2d91093d68d726f"
+  },
+  "mod_files/cdp5.mod": {
+   "bytes": 6564,
+   "sha256": "a00c59849cd7cd8f29d5c8d59ab714a2b573374fbafb04605a6b266b5c5afb6e"
+  },
+  "modelsubsetextra.txt": {
+   "bytes": 1169,
+   "sha256": "959b430ac7a065f66148fb8c18ef333481c477b2bb1a7d3c55f2409d2bf1e57e"
+  },
+  "protocols/01_no_channels_ais_py3.py": {
+   "bytes": 1520,
+   "sha256": "d4f3b393ef76bd0b645ed71eaf95dd2031682be7a63481938401abe340caa591"
+  },
+  "protocols/02_spontaneous_fire_py3.py": {
+   "bytes": 1343,
+   "sha256": "6f774c519940579a8dc7e2209301686ec0ac68fb5daf9366fa250cbcf7e7ed95"
+  },
+  "protocols/03_positive_current_inj_py3.py": {
+   "bytes": 2512,
+   "sha256": "3b5b33c60fe8758a5319dbd4bb6eddc1afda1900b4a2795c0e94ef27d972786f"
+  },
+  "protocols/04_negative_current_inj_py3.py": {
+   "bytes": 2243,
+   "sha256": "b7b5fe48997ed58f9dc733b0889d107c1af392b5e5a381758311a29516a67735"
+  },
+  "protocols/05_calcium_sodium_bursts_py3.py": {
+   "bytes": 1579,
+   "sha256": "97c70859094dce742a04f4d1b1423ae9a8a54a1185a2341b005574739926e7b1"
+  },
+  "protocols/06_Cav21_KO_py3.py": {
+   "bytes": 1565,
+   "sha256": "8fe80c9b74e1896802a9ae27e79e8bac05c9b27a48a506e75ce23ff6852c464c"
+  },
+  "readme.html": {
+   "bytes": 3494,
+   "sha256": "2a43fe3a2e8478a3437546651ba739f6cb845b9d5f2983fe61ad785fc429bb1c"
+  },
+  "screenshot.png": {
+   "bytes": 23030,
+   "sha256": "596126563f36646d2299ea2ecf575a9fc86d15b052712dd76bcc3e1487276625"
+  },
+  "vm.ses": {
+   "bytes": 482,
+   "sha256": "0139e2078edadae5f7d6dfa86412bb3744d5d8db6fdf9eef907fd340924cf475"
+  }
+ }
+}

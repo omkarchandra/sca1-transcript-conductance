@@ -1,0 +1,55 @@
+dataset	verdict	source	gene	log2FC	ci_low	ci_high	source_row_symbol	ci_method
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Kcnma1	-0.273513821130351	-0.453546849251808	-0.0934807930088931	Kcnma1	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Kcnc3	-0.554212531733853	-0.771667515271293	-0.336757548196413	Kcnc3	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Kcnd3	-0.39244360496909	-0.622891541892979	-0.161995668045201	Kcnd3	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Cacna1a	-0.397926779883853	-0.576910018034444	-0.218943541733263	Cacna1a	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Cacna1g	-0.425367524004132	-0.666989050114739	-0.183745997893525	Cacna1g	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Itpr1	-0.317106796827309	-0.567431622144959	-0.0667819715096592	Itpr1	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Atp2a3	-0.511198598530833	-0.764881274114379	-0.257515922947287	Atp2a3	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Kcnmb4	-1.02742378432581	-1.57776438835666	-0.477083180294965	Kcnmb4	limma 95% CI
+Discovery Purkinje nuclei, 12 weeks (held-out mice)	replicates (5/5, 9/9)	e3	Cacna2d2	-0.460012459151242	-0.693189581726621	-0.226835336575863	Cacna2d2	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Kcnma1	-0.506607814405983	-1.23386255548769	0.22064692667572	Kcnma1	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Kcnc3	-0.689572317010171	-1.24743115337858	-0.131713480641761	Kcnc3	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Kcnd3	-0.46173510130156	-1.17213928883396	0.24866908623084	Kcnd3	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Cacna1a	-0.427038248406964	-0.956225201337107	0.10214870452318	Cacna1a	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Cacna1g	-0.741772647193917	-1.30119054284812	-0.182354751539716	Cacna1g	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Itpr1	-0.617640916746131	-1.29234348612238	0.0570616526301162	Itpr1	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Atp2a3	-0.624797098763235	-1.07643554218419	-0.173158655342282	Atp2a3	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Kcnmb4	-1.15995979560874	-1.73276738209246	-0.587152209125024	Kcnmb4	limma 95% CI
+ATXN1[82Q] Purkinje nuclei, 12 weeks	replicates (5/5, 9/9)	a1	Cacna2d2	-0.644824330955149	-1.12162462396149	-0.168024037948805	Cacna2d2	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Kcnma1	-0.257850394918719	-0.375711601376592	-0.139989188460847	Kcnma1	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Kcnc3	-0.678968896250145	-0.93114939109383	-0.426788401406461	Kcnc3	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Kcnd3	-0.235398612544445	-0.554034322030266	0.0832370969413755	Kcnd3	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Cacna1a	-0.310709033378405	-0.422071975076868	-0.199346091679942	Cacna1a	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Cacna1g	-0.303571135744566	-0.454880741546225	-0.152261529942906	Cacna1g	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Itpr1	-0.279014624754108	-0.40775194030774	-0.150277309200476	Itpr1	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Atp2a3	-0.471969015876118	-0.610557294690249	-0.333380737061987	Atp2a3	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Kcnmb4	-1.11231927640989	-1.32612198981037	-0.898516563009407	Kcnmb4	limma 95% CI
+SCA7 Purkinje nuclei, 8.5 weeks	exploratory (9/9)	expl	Cacna2d2	-0.486561034553327	-0.620597050438395	-0.352525018668259	Cacna2d2	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Kcnma1	-0.362270031903934	-0.483923292901491	-0.240616770906378	Kcnma1	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Kcnc3	-0.326105835330814	-0.588731594322934	-0.0634800763386951	Kcnc3	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Kcnd3	-0.503918938858591	-0.836154780258119	-0.171683097459064	Kcnd3	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Cacna1a	-0.281003256121434	-0.394974334215454	-0.167032178027413	Cacna1a	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Cacna1g	-0.263250330514099	-0.414834545203864	-0.111666115824334	Cacna1g	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Itpr1	-0.307651207975466	-0.44141096423572	-0.173891451715212	Itpr1	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Atp2a3	-0.189482967424958	-0.335303962915636	-0.0436619719342797	Atp2a3	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Kcnmb4	-0.57000879015677	-0.795327321262708	-0.344690259050832	Kcnmb4	limma 95% CI
+SCA7 Purkinje nuclei, 5 weeks	exploratory (9/9)	expl	Cacna2d2	-0.172290796420242	-0.314378217604844	-0.0302033752356405	Cacna2d2	limma 95% CI
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Kcnma1	-0.316389	-0.540928	-0.09185	Kcnma1	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Kcnc3	-0.410342	-0.626597	-0.194087	Kcnc3,Napsa	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Kcnd3	0.0014811	-0.18455	0.187512	Kcnd3	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Cacna1a	0.0728688	-0.129109	0.274847	Cacna1a	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Cacna1g	-0.272438	-0.46753	-0.0773462	Cacna1g	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Itpr1	-0.177839	-0.62893	0.273252	Itpr1	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Atp2a3	-0.326189	-0.508389	-0.143989	Atp2a3	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Kcnmb4	0.249291	-0.011051	0.509633	Kcnmb4	from p (approximate)
+Knock-in bulk cerebellum, 12 weeks	not met (3/5)	p2	Cacna2d2	-0.295236	-0.482934	-0.107538	Cacna2d2	from p (approximate)
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Kcnma1	0.660088063679545	-0.349158507199014	1.6693346345581	KCNMA1	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Kcnc3	-0.450869573631008	-1.50207828558136	0.600339138319344	KCNC3	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Kcnd3	0.109300018170227	-0.567722685336753	0.786322721677208	KCND3	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Cacna1a	1.50689257134522	0.210745090255878	2.80304005243456	CACNA1A	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Cacna1g	-0.0127868127408117	-1.14509581314002	1.1195221876584	CACNA1G	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Itpr1	0.360879746517492	-1.08344244418454	1.80520193721952	ITPR1	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Atp2a3	-0.317502068251409	-1.86714170460999	1.23213756810717	ATP2A3	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Kcnmb4	-0.433986102655743	-1.47781615814381	0.609843952832319	KCNMB4	limma 95% CI
+Human SCA1 Purkinje nuclei, 13 donors (primary)	inconclusive (2/5)	a1	Cacna2d2	-0.107527198669271	-1.34964892938686	1.13459453204832	CACNA2D2	limma 95% CI

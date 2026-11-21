@@ -1,0 +1,2 @@
+folder	condition	group	seed	sigma_nA	n_spikes	n_spikes_total	rate_hz	cv	cv2	pause_frac	log_isi_mode_ms	dspikes	dspike_rate_hz	main_crossings	dspikes_total	wall_s	d_rate_hz	d_cv	d_cv2	d_pause_frac	d_log_isi_mode_ms	d_dspikes	d_dspike_rate_hz	d_main_crossings
+KI_24w_mid_k02	KI_24w_mid	KI_24w_mid	20261015	0.0065	961	1600	64.06666666666666	0.02559938671389247	0.03069232957045065	0.0	14.962356560944405	0	0.0	0	0	48856.73230246827	nan	nan	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+folder	condition	group	seed	sigma_nA	n_spikes	n_spikes_total	rate_hz	cv	cv2	pause_frac	log_isi_mode_ms	dspikes	dspike_rate_hz	main_crossings	dspikes_total	wall_s	d_rate_hz	d_cv	d_cv2	d_pause_frac	d_log_isi_mode_ms	d_dspikes	d_dspike_rate_hz	d_main_crossings
+P8_atrophy_A0.8_k03	P8_atrophy_A0.8	P8_atrophy_A0.8	20261016	0.0065	832	1386	55.46666666666667	0.022915028300717972	0.027370619403453023	0.0	18.836490894898088	0	0.0	0	0	50524.43167736381	nan	nan	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,19 @@
+{
+  "stage": "Zang P4 scoring v02 (E1 10-25 s)",
+  "created_utc": "2026-10-27T16:01:13+00:00",
+  "run_root": "results/zang_final_tables/score/score_P8_P8_atrophy_A0.6_k04_v02",
+  "window": [
+    10000.0,
+    25000.0
+  ],
+  "folders": 1,
+  "conditions": [
+    "P8_atrophy_A0.6"
+  ],
+  "paired": false,
+  "script_sha256": "dff012339ab067b53ae10d54286f90f7b47be752d6b88bd53cd9214b04344606",
+  "outputs": {
+    "METRICS.tsv": "cfe067a7d2f2c87facfc165150465d3ce0a01f9212f933d57e63d4bd650dd806",
+    "SUMMARY.md": "9bb01565be691c75c24594b7a7c5b72005aed9fd1bddf8c48d2b7b9ff2c64668"
+  }
+}
